@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nato.barbosa@outlook.com
+	name = Jose Barbosa
